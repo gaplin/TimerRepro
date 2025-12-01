@@ -1,5 +1,5 @@
 # TimerRepro
-.NET 8 Blazor components unexpected behaviour
+.NET 8/10 Blazor components unexpected behaviour
 ## Entry point
 - Two the same interactive components placed in the same place on two different static pages
 ## Observed behaviour
